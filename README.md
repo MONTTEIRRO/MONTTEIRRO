@@ -1,20 +1,20 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=473198" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0F172A" width="100%" />
 </div>
 
 <br/>
 
-<!-- TYPEWRITER TEXT -->
+<!-- TYPEWRITER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Front-End+Developer;Building+modern+web+experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Fullstack+Developer;Software+Engineer;Building+Modern+Scalable+Applications;Architecture+%26+Performance+Focused" />
 </div>
 
 <br/>
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&background=242424&ring=473198&fire=FFFFFF&currStreakLabel=473198&sideLabels=FFFFFF&dates=AAAAAA" height="250" />
+  <img src="https://streak-stats.demolab.com?user=MATTECHH&theme=dark&background=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=9CA3AF" height="250" />
 </div>
 
 <br/>
@@ -22,8 +22,13 @@
 <!-- ABOUT -->
 <div align="center">
 
-Desenvolvedor Front-End especializado na criação de interfaces modernas, responsivas e de alta performance, com foco em experiência do usuário, animações avançadas e desenvolvimento de aplicações escaláveis. Atualmente cursando **Análise e Desenvolvimento de Sistemas na FIAP Online 🎓**, com formação complementar em **Engenharia de Software** e **Ciência da Computação**, além de experiência profissional anterior atuando no desenvolvimento Full Stack. Minha atuação é voltada ao ecossistema Front-End moderno, desenvolvendo experiências digitais interativas, acessíveis e visualmente refinadas utilizando tecnologias e boas práticas alinhadas ao mercado atual.
+# 🚀 Sobre mim
 
+Desenvolvedor Fullstack especializado na criação de aplicações modernas, escaláveis e de alta performance, com foco em arquitetura de software, experiência do usuário e boas práticas de engenharia.
+
+Atualmente cursando **Análise e Desenvolvimento de Sistemas na FIAP Online 🎓**, com formação complementar em **Engenharia de Software** e **Ciência da Computação**, além de experiência prática no desenvolvimento Fullstack envolvendo frontend, backend, APIs, banco de dados e estruturação de sistemas modernos.
+
+Minha atuação é voltada ao ecossistema Fullstack moderno, desenvolvendo soluções robustas, interfaces refinadas e arquiteturas escaláveis utilizando tecnologias e padrões alinhados ao mercado atual, sempre priorizando performance, acessibilidade, componentização, experiência do usuário, organização e código limpo.
 
 </div>
 
@@ -32,66 +37,105 @@ Desenvolvedor Front-End especializado na criação de interfaces modernas, respo
 <!-- MAIN STACK -->
 <div align="center">
 
-### ⚡ Principais Tecnologias
+# ⚡ Principais Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,git,github" height="60" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,nodejs,python,fastapi,mongodb,postgres,prisma,docker,git,github,figma" height="65" />
 
 </div>
 
 <br/>
 
-<!-- STACK ORGANIZADA (ESQUERDA) -->
+# 🧰 Stack Completa
 
-### 🧰 Stack Completa
+## 💻 Frontend
 
-**☁️ Front-End:**  
 HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Vite • TailwindCSS • Styled Components
 
 <br/>
 
-**⚡ Animações & Interatividade:**  
+## ⚙️ Backend
+
+Node.js • Python • FastAPI • REST APIs • JWT • Authentication • Prisma • Mongoose
+
+<br/>
+
+## 🗄️ Banco de Dados
+
+MongoDB • PostgreSQL • MySQL • Prisma ORM • Modelagem de Dados
+
+<br/>
+
+## ⚡ Interatividade & Experiência Web
+
 GSAP • Framer Motion • Lenis • React Bits • Three.js • WebGL • ScrollTrigger
 
 <br/>
 
-**🎨 UI/UX & Design:**  
+## 🎨 UI/UX & Design
+
 Figma • UI Design • UX Design • Responsive Design • Design Systems • Prototyping • Photoshop
 
 <br/>
 
-**📦 Ferramentas & Workflow:**  
-Git • GitHub • npm • pnpm • Vercel • ESLint • Prettier
+## ☁️ Ferramentas & Workflow
+
+Git • GitHub • Docker • npm • pnpm • Vercel • ESLint • Prettier
 
 <br/>
 
-**🚀 Performance & Arquitetura:**  
-SPA • SSR • Componentização • Clean Code • Responsividade • SEO • Acessibilidade • Performance Optimization
+## 🚀 Performance & Arquitetura
+
+SPA • SSR • Componentização • Clean Code • SOLID • Responsividade • SEO • Acessibilidade • Performance Optimization • Arquitetura Escalável
 
 <br/>
 
-<!-- FOCUS CENTRALIZADO -->
+## 🧠 Fundamentos
+
+Algoritmos • Estrutura de Dados • Arquitetura de Software • Engenharia de Software • Padrões de Projeto
+
+<br/>
+
+<!-- FOCUS -->
 <div align="center">
 
-### 🎯 Foco
+# 🎯 Foco
 
-⚡ Performance • 🎨 Interfaces modernas • 🧩 Componentização • 📱 Responsividade • 🎬 Animações avançadas • 🚀 Experiência do usuário • 🧠 Clean Architecture
+🧱 Arquitetura de Software • ⚡ Performance • 📈 Escalabilidade • 📦 Código Limpo • 🚀 Desenvolvimento Fullstack • 🎨 Experiência do Usuário • 🧠 Engenharia de Software
 
 </div>
 
 <br/>
 
+<!-- GIF -->
 <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVua2lsczhscXY4NHVmd3J5bzVpaDBubW9oaWtkZHllYjZlM3ExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" style="border-radius: 1rem; background: transparent;"></img>
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVua2lsczhscXY4NHVmd3J5bzVpaDBubW9oaWtkZHllYjZlM3ExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif"
+    style="border-radius: 1rem; background: transparent;"
+  />
 </div>
 
+<br/>
 
-<!-- THANK YOU CENTRALIZADO -->
+<!-- CURRENTLY -->
 <div align="center">
-  <h3>❤️ Obrigado por visitar meu perfil!</h3>
-  <span>Transformando ideias em experiências digitais modernas 🚀</span>
+
+# 📌 Atualmente estudando
+
+Clean Architecture • Microsserviços • Docker • Inteligência Artificial • Arquitetura Escalável • Performance Web
+
 </div>
+
+<br/>
+
+<!-- THANK YOU -->
+<div align="center">
+  <h3>🤝 Obrigado por visitar meu perfil!</h3>
+  <span>Construindo software moderno com foco em arquitetura, qualidade e evolução contínua 🚀</span>
+</div>
+
+<br/>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=473198" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0F172A" width="100%" />
 </div>
