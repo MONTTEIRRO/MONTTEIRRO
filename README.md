@@ -7,7 +7,7 @@
 
 <!-- TYPEWRITER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Fullstack+Developer;Software+Engineer;Building+Modern+Scalable+Applications;Architecture+%26+Performance+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Dev+Fullstack;Gosto+de+resolver+problema+dif%C3%ADcil;Curto+arquitetura+e+performance;Sempre+aprendendo+algo+novo" />
 </div>
 
 <br/>
@@ -22,13 +22,12 @@
 <!-- ABOUT -->
 <div align="center">
 
-# 🚀 Sobre mim
+# 👋 Um pouco sobre mim
 
-Desenvolvedor Fullstack especializado na criação de aplicações modernas, escaláveis e de alta performance, com foco em arquitetura de software, experiência do usuário e boas práticas de engenharia.
+Sou dev fullstack e gosto de construir coisas que funcionam bem de verdade — não só no "parece bonito", mas na arquitetura, na performance, na experiência de quem usa.
+Estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**, além de ter estudado Engenharia de Software e Ciência da Computação na USJT, mas não concluido, No dia a dia transito entre frontend, backend, banco de dados e a estruturação de sistemas como um todo — gosto de entender o projeto de ponta a ponta.
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas na FIAP Online 🎓**, com formação complementar em **Engenharia de Software** e **Ciência da Computação**, além de experiência prática no desenvolvimento Fullstack envolvendo frontend, backend, APIs, banco de dados e estruturação de sistemas modernos.
-
-Minha atuação é voltada ao ecossistema Fullstack moderno, desenvolvendo soluções robustas, interfaces refinadas e arquiteturas escaláveis utilizando tecnologias e padrões alinhados ao mercado atual, sempre priorizando performance, acessibilidade, componentização, experiência do usuário, organização e código limpo.
+Curto trabalhar com o ecossistema fullstack moderno, testando tecnologias novas mas sempre com um olho em código limpo, componentização e performance. Não é sobre usar a stack mais hype, é sobre escolher a ferramenta certa pro problema certo.
 
 </div>
 
@@ -37,70 +36,45 @@ Minha atuação é voltada ao ecossistema Fullstack moderno, desenvolvendo solu�
 <!-- MAIN STACK -->
 <div align="center">
 
-# ⚡ Principais Tecnologias
+# ⚡ No dia a dia uso
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,nodejs,python,fastapi,mongodb,postgres,prisma,docker,git,github,figma" height="65" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,fastapi,figma" height="65" />
 
 </div>
 
 <br/>
 
-# 🧰 Stack Completa
+# 🧰 Stack completa
 
 ## 💻 Frontend
-
-HTML • CSS • Sass • JavaScript • TypeScript • React • Next.js • Vite • TailwindCSS • Styled Components
-
-<br/>
+HTML • CSS • JavaScript • TypeScript • React • TailwindCSS
 
 ## ⚙️ Backend
+Node.js • Python • FastAPI • Java Script • TypeScript
 
-Node.js • Python • FastAPI • REST APIs • JWT • Authentication • Prisma • Mongoose
+## 🗄️ Banco de dados
+MongoDB • PostgreSQL • MySQL
 
-<br/>
+## ⚡ Interatividade & experiência web
+GSAP • Framer Motion • Lenis • React Bits
 
-## 🗄️ Banco de Dados
+## 🎨 UI/UX & design
+Figma • UI Design • UX Design • Design Systems • Prototipação
 
-MongoDB • PostgreSQL • MySQL • Prisma ORM • Modelagem de Dados
+## ☁️ Ferramentas
+Git • GitHub
 
-<br/>
-
-## ⚡ Interatividade & Experiência Web
-
-GSAP • Framer Motion • Lenis • React Bits • Three.js • WebGL • ScrollTrigger
-
-<br/>
-
-## 🎨 UI/UX & Design
-
-Figma • UI Design • UX Design • Responsive Design • Design Systems • Prototyping • Photoshop
-
-<br/>
-
-## ☁️ Ferramentas & Workflow
-
-Git • GitHub • Docker • npm • pnpm • Vercel • ESLint • Prettier
-
-<br/>
-
-## 🚀 Performance & Arquitetura
-
-SPA • SSR • Componentização • Clean Code • SOLID • Responsividade • SEO • Acessibilidade • Performance Optimization • Arquitetura Escalável
-
-<br/>
-
-## 🧠 Fundamentos
-
-Algoritmos • Estrutura de Dados • Arquitetura de Software • Engenharia de Software • Padrões de Projeto
+## 🚀 Arquitetura & performance
+Componentização • Clean Code • SOLID • SEO • Arquitetura escalável
 
 <br/>
 
 <!-- FOCUS -->
 <div align="center">
 
-# 🎯 Foco
+# 🎯 No que estou de olho
 
-🧱 Arquitetura de Software • ⚡ Performance • 📈 Escalabilidade • 📦 Código Limpo • 🚀 Desenvolvimento Fullstack • 🎨 Experiência do Usuário • 🧠 Engenharia de Software
+⚡ Performance · 📈 Escalabilidade
 
 </div>
 
@@ -116,21 +90,12 @@ Algoritmos • Estrutura de Dados • Arquitetura de Software • Engenharia de 
 
 <br/>
 
-<!-- CURRENTLY -->
-<div align="center">
-
-# 📌 Atualmente estudando
-
-Clean Architecture • Microsserviços • Docker • Inteligência Artificial • Arquitetura Escalável • Performance Web
-
-</div>
-
 <br/>
 
 <!-- THANK YOU -->
 <div align="center">
-  <h3>🤝 Obrigado por visitar meu perfil!</h3>
-  <span>Construindo software moderno com foco em arquitetura, qualidade e evolução contínua 🚀</span>
+  <h3>🤝 Valeu por passar por aqui!</h3>
+  <span>Sempre construindo, sempre aprendendo 🚀</span>
 </div>
 
 <br/>
