@@ -69,29 +69,6 @@ Componentização • Clean Code • SOLID • SEO • Arquitetura escalável
 
 <br/>
 
-<!-- FOCUS -->
-<div align="center">
-
-# 🎯 No que estou de olho
-
-⚡ Performance · 📈 Escalabilidade
-
-</div>
-
-<br/>
-
-<!-- GIF -->
-<div align="center">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVua2lsczhscXY4NHVmd3J5bzVpaDBubW9oaWtkZHllYjZlM3ExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif"
-    style="border-radius: 1rem; background: transparent;"
-  />
-</div>
-
-<br/>
-
-<br/>
-
 <!-- THANK YOU -->
 <div align="center">
   <h3>🤝 Valeu por passar por aqui!</h3>
