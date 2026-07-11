@@ -22,12 +22,8 @@
 <!-- ABOUT -->
 <div align="center">
 
-# 👋 Um pouco sobre mim
-
 Sou dev fullstack e gosto de construir coisas que funcionam bem de verdade — não só no "parece bonito", mas na arquitetura, na performance, na experiência de quem usa.
 Estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**, além de ter estudado Engenharia de Software e Ciência da Computação na USJT, mas não concluido, No dia a dia transito entre frontend, backend, banco de dados e a estruturação de sistemas como um todo — gosto de entender o projeto de ponta a ponta.
-
-Curto trabalhar com o ecossistema fullstack moderno, testando tecnologias novas mas sempre com um olho em código limpo, componentização e performance. Não é sobre usar a stack mais hype, é sobre escolher a ferramenta certa pro problema certo.
 
 </div>
 
